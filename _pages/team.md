@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Trapped Ion Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Trapped Ion Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students),[administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -132,7 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+## Members
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}

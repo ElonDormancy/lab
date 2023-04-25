@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Trapped Ion Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -24,7 +24,7 @@ You find the past job openings here:
 [Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
 
 ### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:jzhang2022@ustc.edu.cn). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
 We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
 
