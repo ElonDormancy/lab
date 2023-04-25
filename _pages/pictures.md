@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "USTC Trapped Ion Lab - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "USTC Trapped Ion Lab -- Pictures"
 permalink: /pictures/
 ---
 
