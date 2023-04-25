@@ -1,7 +1,7 @@
 ---
-title: "USTC Trapped Ion Lab - Home"
+title: "USTC Trapped Ion Lab"
 layout: homelay
-excerpt: "USTC Trapped Ion Lab at Leiden USTC."
+excerpt: "USTC Trapped Ion Lab at USTC."
 sitemap: false
 permalink: /
 ---

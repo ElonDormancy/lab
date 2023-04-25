@@ -1,7 +1,7 @@
 ---
-title: "Trapped Ion Lab - Team"
+title: "USTC Trapped Ion Lab - Team"
 layout: gridlay
-excerpt: "Trapped Ion Lab: Team members"
+excerpt: "USTC Trapped Ion Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
