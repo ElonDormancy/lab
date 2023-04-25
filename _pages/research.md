@@ -1,7 +1,7 @@
 ---
-title: "Trapped Ion Lab - Research"
+title: "USTC Trapped Ion Lab - Research"
 layout: textlay
-excerpt: "Trapped Ion Lab -- Research"
+excerpt: "USTC Trapped Ion Lab -- Research"
 sitemap: false
 permalink: /research/
 ---

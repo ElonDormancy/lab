@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - AOA"
+title: "USTC Trapped Ion Lab - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
