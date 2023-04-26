@@ -419,7 +419,7 @@
       &:focus {
         color: $navbar-default-link-hover-color;
         background-color: $navbar-default-link-hover-bg;
-        border-bottom: 5px solid $gray-lightest;
+        box-shadow: 0 5px 0 0 $gray-lightest;
       }
     }
     > .active > a {
