@@ -108,8 +108,7 @@ $border-radius-large:       5px !default;
 $border-radius-small:       2px !default;
 
 //** Global color for active items (e.g., navs or dropdowns).
-// $component-active-color:    #fff !default;
-$component-active-color:    rgb(0, 0, 0) !default;
+$component-active-color:    #fff !default;
 //** Global background color for active items (e.g., navs or dropdowns).
 $component-active-bg:       $brand-primary !default;
 
@@ -367,7 +366,8 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #f8f8f8 !default;
+// $navbar-default-bg:                #f8f8f8 !default;
+$navbar-default-bg:                #000000 !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
