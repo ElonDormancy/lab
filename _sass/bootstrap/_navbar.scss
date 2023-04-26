@@ -396,7 +396,7 @@
 // Default navbar
 .navbar-default {
   background-color: $navbar-default-bg;
-  border-color: $navbar-default-border;
+  // border-color: $navbar-default-border;
 
   .navbar-brand {
     color: $navbar-default-brand-color;
@@ -419,7 +419,7 @@
       &:focus {
         color: $navbar-default-link-hover-color;
         background-color: $navbar-default-link-hover-bg;
-        border-bottom: 1px solid $gray-lightest;
+        border-bottom: 5px solid $gray-lightest;
       }
     }
     > .active > a {
