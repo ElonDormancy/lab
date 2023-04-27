@@ -22,29 +22,29 @@
 #   number_educ: 0
 #   education1:
 
-- name: Guangcheng Liu
-  photo: guangcheng_liu.jpg
-  info: PhD student,2022-
-  email: dormant@whu.edu.cn
-  number_educ: 1
-  education1: BSc Wuhan University
+# - name: Guangcheng Liu
+#   photo: guangcheng_liu.jpg
+#   info: PhD student,2022-
+#   email: dormant@whu.edu.cn
+#   number_educ: 1
+#   education1: BSc Wuhan University
 
-- name: Yutong Yang
-  photo: yutong_yang.jpg
-  info: PhD student, started May 2022
-  email: dormant@whu.edu.cn
-  number_educ: 1
-  education1: BSc Shandong University
+# - name: Yutong Yang
+#   photo: yutong_yang.jpg
+#   info: PhD student, started May 2022
+#   email: dormant@whu.edu.cn
+#   number_educ: 1
+#   education1: BSc Shandong University
 
-- name: Xinyi Wang
-  photo: xinyi_wang.jpg
-  info: PhD student,2022-
-  email: dormant@whu.edu.cn
+# - name: Xinyi Wang
+#   photo: xinyi_wang.jpg
+#   info: PhD student,2022-
+#   email: dormant@whu.edu.cn
 
-- name: Shichong Chen
-  photo: shichong_chen.jpg
-  info: PhD student,2022-
-  email: shichong.chen@foxmail.com
+# - name: Shichong Chen
+#   photo: shichong_chen.jpg
+#   info: PhD student,2022-
+#   email: shichong.chen@foxmail.com
 
 
 

@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [PhD and Master students](#phd-and-master-students).
+Jump to [Staff](#staff), [PhD and Master students](#phd-and-master-students).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -90,7 +90,7 @@ Jump to [staff](#staff), [PhD and Master students](#phd-and-master-students).
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -130,7 +130,6 @@ Jump to [staff](#staff), [PhD and Master students](#phd-and-master-students).
 {% if even_odd == 1 %}
 </div>
 {% endif %} -->
-
 
 ## PhD and Master Students
 
