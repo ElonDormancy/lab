@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [USTC](https://www.ustc.edu.cn/). Our Lab focues on quantum computing using trapped ion.
+We are a research group at the [USTC](https://www.ustc.edu.cn/).  **Our Lab focus on quantum computing using trapped ion.**
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
