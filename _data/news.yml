@@ -1,6 +1,6 @@
 
 - date: 12. March 2023
-  headline: "Trap 32 ions in Be I system <b>Congratulations!</b><img src='/images/newspic/2023_0316_TrapBe32Ions.jpg' class='img-responsive' style='max-width: 192px' />"
+  headline: "Trap 32 ions in Be I system <b>Congratulations!</b><img src='{{ site.url }}{{ site.baseurl }}/images/newspic/2023_0316_TrapBe32Ions.jpg' class='img-responsive' style='max-width: 192px' />"
 - date: 1.  2022
   headline: "Welcome Guangcheng Liu,Zihan Huang,Shichong Chen,Yichao Zhuo and Xinyi Wang to join our lab to start their Undergraduation Thesis"
 - date: 1. Jan 2022
