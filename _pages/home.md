@@ -18,7 +18,7 @@ We are a research group at the [USTC](https://www.ustc.edu.cn/). Our Lab focues 
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+        <!-- <li data-target="#carousel" data-slide-to="6"></li> -->
     </ol>
 
     <!-- Items -->
@@ -27,7 +27,7 @@ We are a research group at the [USTC](https://www.ustc.edu.cn/). Our Lab focues 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/BeIITrap_01.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/BeIITrap_03.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/BeITrap_01.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/BeIITrap_02.jpg" alt="Slide 3" />
