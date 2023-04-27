@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [USTC](https://www.ustc.edu.cn/). Our Lab focues on quantum computing using trapped ion.We focus on four main technical paths: long ion chain with Be+ ions,QEC,sampling experiment and weak measurement.And now we are in the era of Noisy Intermediate-Scale Quantum Computng.But these NISQ devices are not powerful enough for useful computations beyond the capabilities of today's best classical supercomputers.Thus our ultimate goal is to build a Fault-Tolerant Quantum Computer.
+We are a research group at the [USTC](https://www.ustc.edu.cn/). Our Lab focues on quantum computing using trapped ion.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -50,7 +50,7 @@ We are a research group at the [USTC](https://www.ustc.edu.cn/). Our Lab focues 
 </div>
 
 
-
+We focus on four main technical paths: long ion chain with Be+ ions,QEC,sampling experiment and weak measurement.And now we are in the era of Noisy Intermediate-Scale Quantum Computng.But these NISQ devices are not powerful enough for useful computations beyond the capabilities of today's best classical supercomputers.Thus our ultimate goal is to build a Fault-Tolerant Quantum Computer.
 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
