@@ -10,11 +10,11 @@ permalink: /vacancies
 
 **We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
 
-We are  looking for new group members with passion, talent, and grit!
+We are looking for new group members with passion, talent, and grit!
 
 You will have the chance to work on the grand challenges of quantum computation. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
-### Past open positions
+<!-- ### Past open positions -->
 
 <!-- You find the past job openings here:
 [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
