@@ -9,7 +9,7 @@ permalink: /
 We are a research group at the [USTC](https://www.ustc.edu.cn/).  **Our Lab focus on quantum computing using trapped ion.**
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
