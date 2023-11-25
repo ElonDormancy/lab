@@ -15,8 +15,8 @@ We are a research group at the [USTC](https://www.ustc.edu.cn/).  **Our Lab focu
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
+        <!-- <li data-target="#carousel" data-slide-to="3"></li> -->
+        <!-- <li data-target="#carousel" data-slide-to="4"></li> -->
         <!-- <li data-target="#carousel" data-slide-to="5"></li> -->
         <!-- <li data-target="#carousel" data-slide-to="6"></li> -->
     </ol>
@@ -24,20 +24,14 @@ We are a research group at the [USTC](https://www.ustc.edu.cn/).  **Our Lab focu
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/BeIITrap_01.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/BeIITrap.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/BeITrap_01.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/BeITrap.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/BeIITrap_02.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/TrapBe50Ions.png" alt="Slide 3" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/vac_01.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Fiber_01.jpg" alt="Slide 5" />
-        </div>       
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -50,7 +44,7 @@ We are a research group at the [USTC](https://www.ustc.edu.cn/).  **Our Lab focu
 </div>
 
 
-We focus on four main technical paths: long ion chain with Be+ ions,QEC,sampling experiment and weak measurement.And now we are in the era of Noisy Intermediate-Scale Quantum Computng.But these NISQ devices are not powerful enough for useful computations beyond the capabilities of today's best classical supercomputers.Thus our ultimate goal is to build a Fault-Tolerant Quantum Computer.
+We focus on four main technical paths: long ion chain with Be+ ions,QEC,sampling experiment(IQP) and weak measurement.And now we are in the era of Noisy Intermediate-Scale Quantum Computng.But these NISQ devices are not powerful enough for useful computations beyond the capabilities of today's best classical supercomputers.Thus our ultimate goal is to build a Fault-Tolerant Quantum Computer.
 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
