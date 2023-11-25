@@ -1,10 +1,28 @@
-- name: Guangcheng Liu
-  photo: guangcheng_liu.jpg
-  duration: PhD student,2022-
-  info: Numerical Computation and <a href="https://github.com/ElonDormancy">github</a>
-  email: dormant@whu.edu.cn
+- name: Chao Zeng
+  photo: chao_zeng.jpg
+  info: Postdoc,2022-
   number_educ: 1
-  education1: BSc Wuhan University
+  education1: PhD USTC
+
+- name: Yifan Yao
+  photo: yifan_yao.jpg
+  info: PhD,2021-
+
+- name: Zhaoxi Li
+  photo: zhaoxi_li.jpg
+  info: PhD,2020-
+
+- name: Hongyuan Sun
+  photo: hongyuan_sun.jpg
+  info: PhD,2020-
+
+- name: Zhi Lu
+  photo: template_male.jpg
+  info: PhD,2020-
+
+- name: Zijian Ding
+  photo: zijian_ding.jpg
+  info: PhD student, started May 2022
 
 - name: Yutong Yang
   photo: yutong_yang.jpg
@@ -13,15 +31,51 @@
   number_educ: 1
   education1: BSc Shandong University
 
-- name: Xinyi Wang
-  photo: xinyi_wang.jpg
+- name: Yawen Qing
+  photo: template_female.jpg
+  info: PhD,2021-
+
+- name: Guangcheng Liu
+  photo: guangcheng_liu.jpg
+  duration: PhD student,2022-
+  info: High-Fidelity gate and qec and <a href="https://github.com/ElonDormancy">github</a>
+  email: guangchengliu@mail.ustc.edu.cn
+  number_educ: 1
+  education1: BSc Wuhan University
+
+
+- name: Zihan Huang
+  photo: zihan_huang.jpg
   info: PhD student,2022-
-  email: wxy_lnu@163.com
+
 
 - name: Shichong Chen
   photo: shichong_chen.jpg
   info: PhD student,2022-
   email: shichong.chen@foxmail.com
+
+
+- name: Chaoran Tang
+  photo: template_male.jpg
+  info: PhD student,2022-
+
+- name: Yichao Zhuo
+  photo: template_male.jpg
+  info: PhD student,2022-
+
+- name: Yijie Zhou
+  photo: template_male.jpg
+  info: PhD student,2022-
+
+- name: Xinyi Wang
+  photo: xinyi_wang.jpg
+  info: PhD student,2022-
+  email: wxy_lnu@163.com
+
+- name: Qingqing Zhu
+  photo: template_male.jpg
+  info: PhD student,2022-
+
 
 
 

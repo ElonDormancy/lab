@@ -2,15 +2,17 @@
   photo: jiehang_zhang.jpg
   info: Professor, started Jan 2021 
   email: jzhang2022@ustc.edu.cn
-  number_educ: 1
-  education1: UMD
+  number_educ: 2
+  education1: USTC
+  education2: UMD
 
 - name: Ye Wang
   photo: ye_wang.jpg
   info: Professor, started May 2022
   email: yewang2022@ustc.edu.cn
-  number_educ: 1
-  education1: Duke
+  number_educ: 2
+  education1: Tsinghua
+  education2: Duke
 
 # - name: Milan P Allan
 #   photo: Milan1.jpg
