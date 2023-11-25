@@ -5,8 +5,8 @@ excerpt: "USTC Trapped Ion Lab -- Pictures"
 permalink: /pictures/
 ---
 # Pictures
-<!-- # Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews) -->
+# Pictures
+Jump to: [USTC](#USTC)
 
 
 <!-- ## Leiden

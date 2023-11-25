@@ -16,6 +16,7 @@ Here are some researchs that we currently work on:
 
 ## High-Fidelity gate
 
+## IQP
 
 
 <!-- **Nanofabricated "Smart Tips"**.
