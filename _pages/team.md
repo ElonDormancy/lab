@@ -12,9 +12,11 @@ permalink: /team/
 
 
 ## Group Photo 2023.8
-<div class="item">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/GroupUSTC_202308.jpg",class="img-responsive"/>
-</div>
+
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/GroupUSTC_202308.jpg" width="60%">
+</figure>
 
 Jump to [Staff](#staff), [PhD and Master students](#phd-and-master-students).
 
