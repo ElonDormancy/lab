@@ -14,9 +14,22 @@ Here are some researchs that we currently work on:
 
 ## QEC
 
+Develop quantum error correction techniques with trapped ion systems, including
+Steane method, subsystem code and hypergraph product code. Demonstrate high
+fidelity logical quantum operations
+
+## QA
+
+Demonstration of practical quantum algorithms(QAOA,VQE).
+
 ## High-Fidelity gate
 
-## IQP
+High fidelity Mølmer Sørensen gate in long ion chain with individual addressing
+beams (all to all fidelity>99.9%).High-Fidelity Detection
+
+## Tweezers
+
+Use optical tweezers to engineer the motional spectrum.
 
 
 <!-- **Nanofabricated "Smart Tips"**.
